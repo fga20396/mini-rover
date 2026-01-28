@@ -7,6 +7,10 @@ Adds a simple range grid, adjustable zoom, and quality‑based coloring
 # Install libraries
 pip install adafruit-circuitpython-rplidar pygame
 
+Keys:
+    + / -: Zoom in/out
+    R: Reset zoom
+    ESC or Q: Quit
 """
 
 import sys

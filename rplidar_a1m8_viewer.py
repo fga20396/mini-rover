@@ -23,8 +23,6 @@ from collections import deque
 import pygame
 
 # Adafruit CircuitPython RPLidar
-# Library: adafruit-circuitpython-rplidar
-# Import path:
 from adafruit_rplidar import RPLidar
 
 
